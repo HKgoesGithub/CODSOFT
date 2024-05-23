@@ -26,3 +26,9 @@ The program will display the total marks, average percentage, and grade.
 
 
 TASK 4 - QUIZ APPLICATION WITH TIMER
+This is a simple Java application that implements a quiz with multiple-choice questions. The user is given a set of questions with options to choose from, and the application keeps track of the user's score.
+
+How to Use
+Run the Main class.
+Answer the questions within the given time limit.
+After all questions have been answered, the application will display the final score and the number of correct and incorrect answers.
